@@ -7,5 +7,5 @@ The process of execute script:
 `$pip install opencv-python`
 4. Install librealsense python of Realsense D435 SDK by following:
 `$pip install pyrealsense2`
-5. Download weight file of yolo under link:  https://pjreddie.com/media/files/yolov3.weights 
+5. Download weight file into your folder of yolo under link:  https://pjreddie.com/media/files/yolov3.weights 
 6. Running the script with command.
